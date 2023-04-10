@@ -8,6 +8,11 @@
 
 ![mindmap-eboighor](https://user-images.githubusercontent.com/20767815/230561566-9e0c6702-b502-4d2b-a141-24424174e458.png)
 
+<h3>Test Plan :</h3>
+
+![test-plan-2](https://user-images.githubusercontent.com/20767815/230808466-77466059-78df-4606-80d9-92b2def0e987.png)
+
+
 <h3>Test Case :</h3>
 
 ![test-case](https://user-images.githubusercontent.com/20767815/230561765-91dbf2fd-d36a-460a-b2f7-34ba76876d27.png)
