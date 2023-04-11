@@ -1,6 +1,6 @@
 # Project : E-boighar (Manual Testing) 
 
-<h3>Summary :</h3>
+<h3>Summary:</h3>
 
 <i>The website ( https://eboighar.com/ ) i have used for this Test plan, Test case writting, Test Matrix, Bug reporging and Mindmap</i>
 
@@ -8,14 +8,17 @@
 
 ![mindmap-eboighor](https://user-images.githubusercontent.com/20767815/230561566-9e0c6702-b502-4d2b-a141-24424174e458.png)
 
+
 <h3>Test Plan :</h3>
 
 ![test-plan-2](https://user-images.githubusercontent.com/20767815/230808466-77466059-78df-4606-80d9-92b2def0e987.png)
 
 
+
 <h3>Test Case :</h3>
 
 ![test-case](https://user-images.githubusercontent.com/20767815/230561765-91dbf2fd-d36a-460a-b2f7-34ba76876d27.png)
+
 
 <h3>Reports :</h3>
 
@@ -23,9 +26,11 @@
 
 ![report-1](https://user-images.githubusercontent.com/20767815/230562360-908aface-8eea-404d-b85d-bf49b4b35816.png)
 
+
 <h3>Test Matrix:</h3>
 
 ![test metric](https://user-images.githubusercontent.com/20767815/231264348-9d1b998c-9edb-469b-ba10-8435f35ce7f9.png)
+
 
 <h3>Bug Report :</h3>
 
