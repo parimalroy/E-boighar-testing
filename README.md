@@ -2,7 +2,7 @@
 
 <h3>Summary :</h3>
 
-<i>The website ( https://eboighar.com/ ) i have used for this Test plan, Test case writting,Bug reporging and Mindmap</i>
+<i>The website ( https://eboighar.com/ ) i have used for this Test plan, Test case writting, Test Matrix, Bug reporging and Mindmap</i>
 
 <h3>Mindmap :</h3>
 
@@ -22,6 +22,10 @@
 ![report-2](https://user-images.githubusercontent.com/20767815/230562322-26f58e08-c98f-4705-bdc1-14f681fea79b.png)
 
 ![report-1](https://user-images.githubusercontent.com/20767815/230562360-908aface-8eea-404d-b85d-bf49b4b35816.png)
+
+<h3>Test Matrix:</h3>
+
+![test metric](https://user-images.githubusercontent.com/20767815/231264348-9d1b998c-9edb-469b-ba10-8435f35ce7f9.png)
 
 <h3>Bug Report :</h3>
 
