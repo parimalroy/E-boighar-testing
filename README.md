@@ -1,4 +1,4 @@
-# E-boighar-testing : Project for Manual Test case writting, Bug reporting and Mindmap
+# Project : E-boighar (Manual Testing) 
 
 <h3>Summary :</h3>
 
